@@ -1,0 +1,47 @@
+https://console.cloud.google.com/compute/instances?project=acquired-cargo-264417&instancessize=50
+
+github
+anku-19
+passw-Dwarikamai123$
+
+6168251478
+
+$ sudo apt-get update
+
+sudo apt-get update
+
+sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg2 \
+    software-properties-common
+
+
+$ sudo apt-get install docker-ce docker-ce-cli containerd.io
+8e09cc95d05f443c64f2b37c76e02b5049d5c792
+
+
+7th march
+pull the base image
+=
+Build the Enviroment--libarary and all the sample library things uhave to keep.
+
+=
+Copy the code Base/Configuation and propoty file
+=
+Expose the Application--expose the port
+=
+put Entry point /cmd
+
+
+
+ cpy nad addboth r same
+copy-it will just do the simple file
+ADD-itwill do compress file,link,aldo]
+
+
+entry [oint/cmd
+executable u need to give in the entrypoint
+cmd-u will give argumentssund
+
